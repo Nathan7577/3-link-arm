@@ -12,3 +12,5 @@ This repository features a physics-based simulation of a 3-link robotic arm, des
 - **Inverse Kinematics Implementation:** Future updates will include the implementation of inverse kinematics, adding flexibility and expanding the range of possible applications.
 
 - **Real-Time Tracking:** Plans are in place to incorporate real-time tracking capabilities, further enhancing the simulation's practicality and relevance.
+
+![OptimalAnimation](https://github.com/Nathan7577/3-link-arm/assets/140115590/7cca9a03-1943-4691-a724-03f49a813113)
